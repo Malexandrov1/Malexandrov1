@@ -1,4 +1,4 @@
-# Mikhail Alexandrov
+# Mikhail Aleksandrov
 
 **Software Development · Financial Technology · Open Source**
 
